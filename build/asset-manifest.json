@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/totalitycorp-frontend-challenge/static/css/main.fbfcfd47.chunk.css",
+    "main.js": "/totalitycorp-frontend-challenge/static/js/main.8b8c03d4.chunk.js",
+    "main.js.map": "/totalitycorp-frontend-challenge/static/js/main.8b8c03d4.chunk.js.map",
+    "runtime-main.js": "/totalitycorp-frontend-challenge/static/js/runtime-main.fd33c2dd.js",
+    "runtime-main.js.map": "/totalitycorp-frontend-challenge/static/js/runtime-main.fd33c2dd.js.map",
+    "static/css/2.60c0a443.chunk.css": "/totalitycorp-frontend-challenge/static/css/2.60c0a443.chunk.css",
+    "static/js/2.a183903a.chunk.js": "/totalitycorp-frontend-challenge/static/js/2.a183903a.chunk.js",
+    "static/js/2.a183903a.chunk.js.map": "/totalitycorp-frontend-challenge/static/js/2.a183903a.chunk.js.map",
+    "index.html": "/totalitycorp-frontend-challenge/index.html",
+    "static/css/2.60c0a443.chunk.css.map": "/totalitycorp-frontend-challenge/static/css/2.60c0a443.chunk.css.map",
+    "static/css/main.fbfcfd47.chunk.css.map": "/totalitycorp-frontend-challenge/static/css/main.fbfcfd47.chunk.css.map",
+    "static/js/2.a183903a.chunk.js.LICENSE.txt": "/totalitycorp-frontend-challenge/static/js/2.a183903a.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/totalitycorp-frontend-challenge/static/media/watch.8c1f1e97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd33c2dd.js",
+    "static/css/2.60c0a443.chunk.css",
+    "static/js/2.a183903a.chunk.js",
+    "static/css/main.fbfcfd47.chunk.css",
+    "static/js/main.8b8c03d4.chunk.js"
+  ]
+}

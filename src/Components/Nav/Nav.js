@@ -20,7 +20,7 @@ function Navigation() {
 
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="nav-justified w-100 nav-fill">
-              <Nav.Link className="nav-link" href="/mac">
+              <Nav.Link className="nav-link" href="/">
                 Mac
               </Nav.Link>
               <Nav.Link href="/iphone">iphone</Nav.Link>
